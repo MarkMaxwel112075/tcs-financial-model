@@ -1,2 +1,55 @@
-# tcs-financial-model
+# TCS Financial Model (3-Statement)
 3-Statement Financial Model (FY23–FY25) with integrated forecasting and ratio analysis
+
+## Overview
+
+This project involves building a fully integrated three-statement financial model for Tata Consultancy Services (TCS), covering FY23–FY25. The model links the Income Statement, Balance Sheet, and Cash Flow Statement, ensuring complete consistency across all financial outputs.
+
+## Objectives
+
+* Forecast company performance over a 3-year period
+* Build a fully linked financial model from scratch
+* Analyse profitability, efficiency, and financial health
+
+## Key Highlights
+
+* Forecasted revenue growth from **$27.9Bn to $30.2Bn**
+* Maintained **~19% net profit margin** and **50%+ ROE**
+* Ensured **zero inter-statement discrepancies** across an **$18.9Bn balance sheet**
+* Modelled **6.8% asset growth** ($17.7Bn → $18.9Bn)
+
+## Model Structure
+
+* Revenue and cost drivers
+* Depreciation & Amortisation (D&A)
+* Working capital assumptions
+* Capital expenditure (Capex)
+* Debt and equity linkages
+
+## Financial Analysis
+
+* Profitability ratios (Net Margin, Operating Margin)
+* Efficiency ratios (Asset Turnover)
+* Return metrics (ROE, ROA)
+
+## Tools Used
+
+* Microsoft Excel (Advanced Financial Modelling)
+
+## Files Included
+
+* Excel financial model
+* Summary PDF (model explanation)
+* Screenshots of key outputs
+
+## Key Insight
+
+TCS demonstrates strong operational efficiency with stable margins and consistent return metrics, supported by disciplined cost management and steady revenue growth.
+
+## What I Learned
+
+* Building error-free integrated financial models
+* Importance of balance sheet balancing and linkage checks
+* Translating assumptions into financial outcomes
+
+

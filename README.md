@@ -6,6 +6,15 @@
 - ROE: 50%+
 - Zero inter-statement discrepancies across $18.9Bn balance sheet
 
+## Problem Statement
+To understand TCS’s financial performance and future growth by building a structured model that links all financial statements.
+
+## Approach
+Built a fully integrated 3-statement model linking revenue, costs, working capital, and capex to analyse company performance.
+
+## Outcome
+Identified stable margins (~19%), strong ROE (50%+), and consistent asset growth, indicating strong operational efficiency.
+
 ## Overview
 
 This project involves building a fully integrated three-statement financial model for Tata Consultancy Services (TCS), covering FY23–FY25. The model links the Income Statement, Balance Sheet, and Cash Flow Statement, ensuring complete consistency across all financial outputs.

@@ -1,5 +1,10 @@
 # TCS Financial Model (3-Statement)
-3-Statement Financial Model (FY23–FY25) with integrated forecasting and ratio analysis
+
+## Key Results
+- Revenue forecast: $27.9Bn → $30.2Bn
+- Net margin: ~19%
+- ROE: 50%+
+- Zero inter-statement discrepancies across $18.9Bn balance sheet
 
 ## Overview
 
